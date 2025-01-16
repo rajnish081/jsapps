@@ -17,25 +17,25 @@
 
 
 // placeholder
-// let name='ajiti'
-// let message=`hello ${name},
-//     sexy girl
-//     come 
-//       to 
-//       your 
+let name='ajiti'
+let message=`hello ${name},
+    sexy girl
+    come 
+      to 
+      your 
       
       
-//       dad`;
-// console.log(message);  
-// console.log(typeof message);    
+      dad`;
+console.log(message);  
+console.log(typeof message);    
 
 
 
 // let date =new Date();
 // let date=new Date('june 20 1998 07:15'); 
-// let date=new Date(2003,2,15,6);
-// console.log(date);
-// console.log(typeof date);
+let date=new Date(2003,2,15,6);
+console.log(date);
+console.log(typeof date);
 
 
 
